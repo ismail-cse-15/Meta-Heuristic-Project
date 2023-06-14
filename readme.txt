@@ -1,7 +1,3 @@
-# Meta-Heuristic-Project-Submission
-This repository contains the all code and dataset of the meta-heuristic project
-
-
 1. "Satimage_.csv" is the dataset containing satimage data.
 2. "iono.csv" is the dataset containing ionosphere data.
 3. "triplet_weights_satimage.hdf5" is the saved weight of satimage.
